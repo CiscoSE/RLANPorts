@@ -1,6 +1,6 @@
 # RLANPorts
 
-* By using a template in DNAC, enable all RLAN ports on 1815W and 9105 APs *
+* By using a template in DNAC, enable all RLAN ports on 1815W and 9105 APs
 
 ---
 
