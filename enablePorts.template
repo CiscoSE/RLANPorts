@@ -1,0 +1,5 @@
+#MODE_ENABLE
+ap name $ap lan port-id 1 enable
+ap name $ap lan port-id 2 enable
+ap name $ap lan port-id 3 enable
+#MODE_END_ENABLE
