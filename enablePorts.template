@@ -1,3 +1,6 @@
+!--- This is a sample template for DNAC
+!--- You would create a project and template under Tools -> Template Editor
+!--- These are basically commands that run in enable mode on the controller
 #MODE_ENABLE
 ap name $ap lan port-id 1 enable
 ap name $ap lan port-id 2 enable
