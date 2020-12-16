@@ -38,6 +38,8 @@ PASS='YOUR_DNAC_ADMIN_PASSWORD''
 # wireless controller specifications
 #
 controller_id="YOUR_C9800_IP"
+# do NOT change controller_type. Check out the SDK
+# for what MANAGED_DEVICE_IP means
 controller_type="MANAGED_DEVICE_IP"
 
 #
