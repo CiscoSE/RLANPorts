@@ -4,7 +4,7 @@
 
 ---
 
-**ToDo's:**
+**ToDo:**
 
  - add error handling
  - add some command line options to specify things like ap or template name,
@@ -42,7 +42,7 @@ This was built/tested against DNA Center v2.1.2.4
 
 You might want to do this in a python virtual environment.
 
-Clone this repo. After doig that, do:
+Clone this repo. After doing that, do:
 
   pip install -r requirements.txt
 
